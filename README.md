@@ -1,2 +1,0 @@
-# presale
-jxrcoin presale website
